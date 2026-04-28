@@ -15,7 +15,7 @@ git clone https://github.com/Sampath04x/mumz-gift-finder
 cd mumz-gift-finder
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
-cp .env.example .env  # Add your GEMINI_API_KEY
+cp .env.example .env  # Add your GROQ_API_KEY (and GEMINI_API_KEY for data generation)
 python generate_data.py   # Creates data/products.json + embeds into ChromaDB
 uvicorn src.api:app --reload
 ```
@@ -44,11 +44,11 @@ curl http://localhost:8000/moms-verdict/P001
 ```
 User query
     ↓
-[Gemini 2.5 Flash] Intent extraction → structured params (age, budget, occasion)
+[Groq Llama-3.3-70b] Intent extraction → structured params (age, budget, occasion)
     ↓
 [ChromaDB + all-MiniLM-L6-v2] Semantic retrieval → top 5 candidates
     ↓
-[Gemini 2.5 Pro] Ranking + bilingual reasoning → Pydantic-validated output
+[Groq Llama-3.3-70b] Ranking + bilingual reasoning → JSON-validated output
     ↓
 FastAPI response (GiftFinderResult schema)
 ```
@@ -57,8 +57,8 @@ FastAPI response (GiftFinderResult schema)
 
 | Tool | Model / Version | Used for |
 |------|----------------|----------|
-| Gemini 2.5 Flash | gemini-2.5-flash | Intent extraction, Moms Verdict (fast + cheap) |
-| Gemini 2.5 Pro | gemini-2.5-pro | Gift ranking (user-facing quality output) |
+| Groq | llama-3.3-70b-versatile | Intent extraction, Gift ranking, Moms Verdict |
+| Gemini API | gemini-2.5-pro | Used originally for data generation (products.json) |
 | ChromaDB | 0.4.x + all-MiniLM-L6-v2 | Product embedding + semantic retrieval |
 | KiloCode | VS Code extension | Agent-assisted refactoring, prompt iteration |
 
@@ -68,6 +68,6 @@ FastAPI response (GiftFinderResult schema)
 - Manual overrides: I rewrote the Arabic system prompt twice after testing showed literal-translation artifacts
 - Eval grading: ran Gemini 2.5 Flash as a judge on 5 test cases to score Arabic naturalness (results in EVALS.md)
 
-**What worked:** Using a two-model approach (Flash for extraction, Pro for output) keeps costs low without sacrificing quality where it matters.
+**What worked:** Migrating to the Groq API for production tasks eliminated rate-limiting bottlenecks, while the `llama-3.3-70b-versatile` model was able to easily handle structured JSON schema extraction and bilingual content generation.
 
-**What didn't work:** Initial attempts at combined intent+ranking in one call led to worse Arabic output. Splitting into two calls improved naturalness significantly.
+**What didn't work:** Initial attempts at combined intent+ranking in one call led to worse Arabic output. Splitting into two calls improved naturalness significantly. Similarly, using Groq's `json_object` mode requires the strict JSON schema to be explicitly defined in the system prompt; otherwise, it will generate arbitrary structures that break Pydantic validation.

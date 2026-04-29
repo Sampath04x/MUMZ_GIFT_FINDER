@@ -11,11 +11,11 @@ AI-powered gift discovery and product review synthesis for Mumzworld (MENA baby 
 ## Setup (under 5 minutes)
 
 ```bash
-git clone https://github.com/Sampath04x/mumz-gift-finder
-cd mumz-gift-finder
+git clone https://github.com/Sampath04x/MUMZ_GIFT_FINDER
+cd MUMZ_GIFT_FINDER
 python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-cp .env.example .env          # Fill in GROQ_API_KEY (and GEMINI_API_KEY for data generation)
+cp .env.example .env          # Fill in GROQ_API_KEY
 python generate_data.py       # Creates data/products.json with 50 bilingual products
 uvicorn src.api:app --reload  # Starts server at http://localhost:8000
 ```
@@ -75,14 +75,12 @@ curl -s http://localhost:8000/moms-verdict/P001 | python -m json.tool
 | Tool | Model / Version | Used for |
 |------|----------------|----------|
 | Groq | llama-3.1-8b-instant | Intent extraction (cheap, fast) |
-| Groq | llama-3.3-70b-versatile | Gift ranking + Moms Verdict (quality) |
-| Gemini API | gemini-2.5-flash | Synthetic data generation (products.json) |
+| Groq | llama-3.3-70b-versatile | Gift ranking, Moms Verdict, data generation |
 | ChromaDB | 1.5.8 + all-MiniLM-L6-v2 | Product embedding + semantic retrieval |
 | FastAPI | 0.136.1 | REST API layer |
 
 **How I used AI in this build:**
 - Used Groq's Llama models for all production inference (fast, cheap, reliable JSON output via `response_format`)
-- Used Gemini 2.5 Flash to generate the synthetic product catalog (50 products with Arabic names and reviews)
 - Iterated the Arabic system prompt twice after testing showed literal-translation artifacts — natural Arabic phrasing requires explicit counter-examples in the prompt, not just instructions
 - Split intent extraction and ranking into two separate LLM calls; combining them in one call degraded Arabic output quality significantly
 

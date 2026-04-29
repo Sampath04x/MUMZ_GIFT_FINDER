@@ -99,7 +99,17 @@ def extract_intent(query: str) -> IntentExtraction:
 def run_gift_finder(query: str) -> GiftFinderResult:
     """Full pipeline: query → intent → retrieval → ranking → validated output."""
 
-    # Step 1: Extract intent
+    # Step 1: Check empty query
+    if not query.strip():
+        return GiftFinderResult(
+            query=query,
+            suggestions=[],
+            search_summary_en="Please provide a gift request.",
+            search_summary_ar="يرجى تقديم طلب هدية.",
+            refusal_reason="Empty query"
+        )
+
+    # Step 2: Extract intent
     try:
         intent = extract_intent(query)
     except (json.JSONDecodeError, ValidationError, Exception) as e:
@@ -108,10 +118,10 @@ def run_gift_finder(query: str) -> GiftFinderResult:
             suggestions=[],
             search_summary_en="Sorry, I couldn't understand your request. Please try rephrasing.",
             search_summary_ar="عذراً، لم أتمكن من فهم طلبك. يرجى إعادة الصياغة.",
-            refusal_reason=f"Intent extraction failed: {str(e)}"
+            refusal_reason="Intent extraction failed due to invalid input or parsing error."
         )
 
-    # Step 2: Check if valid gift query
+    # Step 3: Check if valid gift query
     if not intent.is_valid_gift_query:
         return GiftFinderResult(
             query=query,
@@ -121,7 +131,7 @@ def run_gift_finder(query: str) -> GiftFinderResult:
             refusal_reason=intent.rejection_reason or "Not a gift query"
         )
 
-    # Step 3: Guard against impossibly low budget
+    # Step 4: Guard against impossibly low budget
     if intent.budget_max_aed is not None and intent.budget_max_aed < 15:
         return GiftFinderResult(
             query=query,
@@ -131,7 +141,7 @@ def run_gift_finder(query: str) -> GiftFinderResult:
             refusal_reason="Budget too low"
         )
 
-    # Step 4: Semantic retrieval
+    # Step 5: Semantic retrieval
     search_query = f"{query} {' '.join(intent.keywords)}"
     candidates = retrieve_products(
         query=search_query,

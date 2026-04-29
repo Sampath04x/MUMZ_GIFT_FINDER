@@ -1,361 +1,2951 @@
 [
   {
     "id": "P001",
-    "name_en": "Newborn Anti-Colic Bottle Set",
-    "name_ar": "مجموعة رضّاعات الأطفال حديثي الولادة المضادة للمغص",
+    "name_en": "Baby Feeding Bottle",
+    "name_ar": "زجاجة طعام الأطفال",
     "category": "feeding",
-    "brand": "Avent",
-    "price_aed": 129,
+    "brand": "Philips",
+    "price_aed": 50,
     "age_min_months": 0,
-    "age_max_months": 6,
-    "description_en": "This set includes essential anti-colic bottles designed to reduce feeding issues like colic and discomfort. It provides a natural latch for easy combining with breastfeeding.",
-    "description_ar": "تتضمن هذه المجموعة رضّاعات أساسية مضادة للمغص مصممة لتقليل مشاكل التغذية مثل المغص والانزعاج. توفر رضاعة طبيعية لسهولة الجمع بين الرضاعة الطبيعية والصناعية.",
+    "age_max_months": 12,
+    "description_en": "This baby feeding bottle is designed for newborns and toddlers. It's easy to clean and BPA-free.",
+    "description_ar": "هذه الزجاجة مصممة للاستخدام المباشر من العلبة، وتحتوي على نظام إغلاق مزدوج لمنع التسرب. وهي خالية من المواد الكيميائية الضارة.",
     "tags": [
-      "bottles",
-      "newborn",
-      "anti-colic",
       "feeding",
-      "starter kit"
+      "bottle",
+      "baby"
     ],
     "reviews": [
       {
         "rating": 5,
-        "text_en": "Excellent starter set for our baby. The anti-colic feature really helped with gas.",
-        "text_ar": "مجموعة ممتازة لبدء تغذية طفلنا. ميزة منع المغص ساعدت حقًا في التخلص من الغازات."
+        "text_en": "Great product, easy to use.",
+        "text_ar": "منتج رائع، سهل الاستخدام."
       },
       {
         "rating": 4,
-        "text_en": "Good quality bottles, easy to clean. Wish it came with more varied nipple flows.",
-        "text_ar": "رضّاعات ذات جودة جيدة، سهلة التنظيف. أتمنى لو كانت تأتي بمعدلات تدفق حلمات أكثر تنوعًا."
+        "text_en": "Good quality, but a bit expensive.",
+        "text_ar": "جودة جيدة، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
       },
       {
         "rating": 5,
-        "text_en": "My baby took to these immediately. Highly recommend for new parents.",
-        "text_ar": "طفلي تقبل هذه الرضّاعات على الفور. أوصي بها بشدة للآباء الجدد."
+        "text_en": "I love it, my baby loves it too.",
+        "text_ar": "أنا أحبه، وطفلي يحبه أيضا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
       }
     ]
   },
   {
     "id": "P002",
-    "name_en": "Lightweight Compact Stroller",
-    "name_ar": "عربة أطفال خفيفة الوزن ومدمجة",
-    "category": "gear",
-    "brand": "Chicco",
-    "price_aed": 799,
-    "age_min_months": 6,
-    "age_max_months": 36,
-    "description_en": "This compact stroller is perfect for city living and travel, offering easy maneuverability and a simple one-hand fold. It ensures comfort for your child with multiple recline positions and a large canopy.",
-    "description_ar": "هذه العربة المدمجة مثالية للمعيشة في المدينة والسفر، وتوفر سهولة في المناورة وطية بسيطة بيد واحدة. تضمن الراحة لطفلك مع أوضاع إمالة متعددة ومظلة كبيرة.",
+    "name_en": "Toddler Car Seat",
+    "name_ar": "مقعد السيارة للأطفال",
+    "category": "safety",
+    "brand": "Britax",
+    "price_aed": 400,
+    "age_min_months": 12,
+    "age_max_months": 48,
+    "description_en": "This car seat is designed for toddlers and provides maximum safety and comfort. It's easy to install and adjust.",
+    "description_ar": "هذا المقعد مصمم لتوفير أقصى درجات الأمان والراحة للأطفال. وهو سهل التركيب والتكيف.",
     "tags": [
-      "stroller",
-      "travel",
-      "compact",
-      "toddler",
-      "lightweight"
+      "car",
+      "seat",
+      "toddler"
     ],
     "reviews": [
       {
-        "rating": 4,
-        "text_en": "Great stroller for quick trips. It's really light and folds down small.",
-        "text_ar": "عربة أطفال رائعة للرحلات السريعة. إنها خفيفة حقًا وتطوى بحجم صغير."
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
       },
       {
-        "rating": 5,
-        "text_en": "We love how easy it is to navigate through crowded places. The quality is excellent for the price.",
-        "text_ar": "نحن نحب مدى سهولة التنقل بها في الأماكن المزدحمة. الجودة ممتازة بالنسبة للسعر."
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
       },
       {
         "rating": 3,
-        "text_en": "Good, but the storage basket is a bit small. Otherwise, very practical.",
-        "text_ar": "جيدة، لكن سلة التخزين صغيرة بعض الشيء. بخلاف ذلك، عملية جداً."
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, my child is safe and comfortable.",
+        "text_ar": "أنا أحبه، وطفلي في أمان وراحة."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
       }
     ]
   },
   {
     "id": "P003",
-    "name_en": "Infant Play Gym and Activity Mat",
-    "name_ar": "بساط لعب ونشاط للرضع",
-    "category": "toys",
-    "brand": "Fisher-Price",
-    "price_aed": 249,
+    "name_en": "Baby Monitor",
+    "name_ar": "مشاهدة الأطفال",
+    "category": "safety",
+    "brand": "Summer",
+    "price_aed": 150,
     "age_min_months": 0,
-    "age_max_months": 12,
-    "description_en": "Engage your baby's senses with this vibrant play gym featuring hanging toys, stimulating sounds, and a comfy mat. It encourages tummy time and develops motor skills from birth.",
-    "description_ar": "أشغل حواس طفلك بهذه صالة الألعاب الرياضية الملونة التي تتميز بألعاب معلقة وأصوات محفزة وبساط مريح. تشجع وقت البطن وتطور المهارات الحركية منذ الولادة.",
+    "age_max_months": 24,
+    "description_en": "This baby monitor is designed to provide parents with a clear view of their baby. It's easy to use and has a long battery life.",
+    "description_ar": "هذا الجهاز مصمم لتوفير للآباء نظرة واضحة لطفلهم. وهو سهل الاستخدام وله بطارية طويلة الأمد.",
     "tags": [
-      "playmat",
-      "newborn toy",
-      "sensory",
-      "tummy time",
-      "baby gym"
+      "monitor",
+      "baby",
+      "safety"
     ],
     "reviews": [
       {
         "rating": 5,
-        "text_en": "Our baby absolutely loves this play mat. So many different textures and sounds to explore.",
-        "text_ar": "طفلنا يحب بساط اللعب هذا تمامًا. هناك الكثير من الأنسجة والأصوات المختلفة لاستكشافها."
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
       },
       {
         "rating": 4,
-        "text_en": "A great investment for early development. Easy to set up and clean.",
-        "text_ar": "استثمار رائع للتنمية المبكرة. سهل الإعداد والتنظيف."
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
       },
       {
         "rating": 5,
-        "text_en": "Keeps my little one entertained for ages. Highly recommended for infants!",
-        "text_ar": "يبقي طفلي الصغير مستمتعًا لساعات. موصى به للغاية للرضع!"
+        "text_en": "I love it, it gives me peace of mind.",
+        "text_ar": "أنا أحبه، يعطيني راحة البال."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
       }
     ]
   },
   {
     "id": "P004",
-    "name_en": "Convertible Car Seat for Infants and Toddlers",
-    "name_ar": "مقعد سيارة متعدد الاستخدامات للرضع والأطفال الصغار",
-    "category": "safety",
-    "brand": "Maxi-Cosi",
-    "price_aed": 849,
+    "name_en": "Baby Stroller",
+    "name_ar": "عربة الأطفال",
+    "category": "gear",
+    "brand": "Bugaboo",
+    "price_aed": 600,
     "age_min_months": 0,
-    "age_max_months": 48,
-    "description_en": "This car seat offers superior safety and comfort, adapting from a rear-facing infant seat to a forward-facing toddler seat. It features advanced side-impact protection and easy installation for peace of mind.",
-    "description_ar": "يوفر مقعد السيارة هذا أمانًا وراحة فائقة، حيث يتكيف من مقعد رضيع مواجه للخلف إلى مقعد طفل صغير مواجه للأمام. يتميز بحماية متقدمة من الصدمات الجانبية وسهولة التركيب لراحة البال.",
+    "age_max_months": 36,
+    "description_en": "This baby stroller is designed to provide comfort and convenience for parents and babies. It's easy to fold and store.",
+    "description_ar": "هذه العربة مصممة لتوفير الراحة والسهولة للآباء والأطفال. وهي سهلة الطي والتخزين.",
     "tags": [
-      "car seat",
-      "infant safety",
-      "toddler car seat",
-      "convertible",
-      "travel safety"
+      "stroller",
+      "baby",
+      "gear"
     ],
     "reviews": [
       {
         "rating": 5,
-        "text_en": "Feels very sturdy and safe. Our child seems comfortable on long journeys.",
-        "text_ar": "يبدو قويًا وآمنًا للغاية. يبدو طفلنا مرتاحًا في الرحلات الطويلة."
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
       },
       {
         "rating": 4,
-        "text_en": "A bit heavy to move between cars, but the safety features are worth it. Excellent quality.",
-        "text_ar": "ثقيل بعض الشيء عند النقل بين السيارات، لكن ميزات السلامة تستحق العناء. جودة ممتازة."
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
       },
       {
         "rating": 5,
-        "text_en": "Easy to install and adjust. Provides great peace of mind knowing my baby is secure.",
-        "text_ar": "سهل التركيب والتعديل. يوفر راحة بال كبيرة لمعرفة أن طفلي آمن."
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
       }
     ]
   },
   {
     "id": "P005",
-    "name_en": "Organic Cotton Baby Bodysuits 3-Pack",
-    "name_ar": "مجموعة أفرولات أطفال قطنية عضوية 3 قطع",
-    "category": "clothing",
-    "brand": "Carter's",
-    "price_aed": 65,
-    "age_min_months": 0,
-    "age_max_months": 9,
-    "description_en": "Soft and breathable organic cotton bodysuits perfect for your baby's delicate skin. This 3-pack offers comfort and convenience for everyday wear.",
-    "description_ar": "أفرولات قطنية عضوية ناعمة ومسامية مثالية لبشرة طفلك الرقيقة. توفر هذه المجموعة المكونة من 3 قطع الراحة والملاءمة للارتداء اليومي.",
+    "name_en": "Baby Feeding Bowl",
+    "name_ar": "وعاء طعام الأطفال",
+    "category": "feeding",
+    "brand": "Munchkin",
+    "price_aed": 20,
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "description_en": "This baby feeding bowl is designed to make mealtime easy and fun. It's easy to clean and BPA-free.",
+    "description_ar": "هذا الوعاء مصمم لتسهيل وقت الوجبة وجعلها ممتعة. وهو سهل التنظيف وخالي من المواد الكيميائية الضارة.",
     "tags": [
-      "baby clothes",
-      "organic cotton",
-      "bodysuits",
-      "newborn",
-      "infant clothing"
+      "bowl",
+      "feeding",
+      "baby"
     ],
     "reviews": [
       {
         "rating": 5,
-        "text_en": "These are incredibly soft and hold up well after many washes. Love the simple designs.",
-        "text_ar": "هذه الأفرولات ناعمة بشكل لا يصدق وتحافظ على جودتها بعد العديد من الغسلات. أحب التصميمات البسيطة."
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
       },
       {
         "rating": 4,
-        "text_en": "Great value for organic cotton. They fit well and are easy to snap.",
-        "text_ar": "قيمة رائعة للقطن العضوي. تناسب بشكل جيد وسهلة الإغلاق."
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
       },
       {
         "rating": 5,
-        "text_en": "My favorite everyday bodysuits. Gentle on my baby's sensitive skin.",
-        "text_ar": "أفرولاتي اليومية المفضلة. لطيفة على بشرة طفلي الحساسة."
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
       }
     ]
   },
   {
     "id": "P006",
-    "name_en": "Smart Video Baby Monitor with Night Vision",
-    "name_ar": "جهاز مراقبة الأطفال الذكي بالفيديو والرؤية الليلية",
-    "category": "bedroom",
-    "brand": "Motorola",
-    "price_aed": 499,
+    "name_en": "Baby Clothing Set",
+    "name_ar": "مجموعة ملابس الأطفال",
+    "category": "clothing",
+    "brand": "Carter's",
+    "price_aed": 80,
     "age_min_months": 0,
-    "age_max_months": 144,
-    "description_en": "Keep a close eye on your little one with this advanced video baby monitor featuring crystal-clear night vision and two-way talk. Connects to your smartphone for remote viewing and peace of mind.",
-    "description_ar": "راقب طفلك عن كثب باستخدام جهاز مراقبة الأطفال بالفيديو المتقدم هذا الذي يتميز برؤية ليلية واضحة تمامًا وميزة التحدث في اتجاهين. يتصل بهاتفك الذكي للمشاهدة عن بعد وراحة البال.",
+    "age_max_months": 24,
+    "description_en": "This baby clothing set is designed to provide comfort and style for babies. It's made from soft and breathable materials.",
+    "description_ar": "هذه المجموعة مصممة لتوفير الراحة والأناقة للأطفال. وهي مصنوعة من مواد ناعمة ومرنة.",
     "tags": [
-      "baby monitor",
-      "night vision",
-      "smart home",
-      "safety",
-      "nursery"
+      "clothing",
+      "baby",
+      "set"
     ],
     "reviews": [
       {
         "rating": 5,
-        "text_en": "The video quality is fantastic, even in the dark. The app is also very user-friendly.",
-        "text_ar": "جودة الفيديو رائعة، حتى في الظلام. التطبيق سهل الاستخدام أيضًا."
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
       },
       {
         "rating": 4,
-        "text_en": "Works great for monitoring. Sometimes the connection drops for a second, but it's rare.",
-        "text_ar": "يعمل بشكل رائع للمراقبة. أحيانًا ينقطع الاتصال لثانية، لكن هذا نادر."
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
       },
       {
         "rating": 5,
-        "text_en": "Gives me so much peace of mind. The two-way talk is a lifesaver for soothing the baby.",
-        "text_ar": "يمنحني راحة بال كبيرة. ميزة التحدث في اتجاهين منقذة للحياة لتهدئة الطفل."
+        "text_en": "I love it, it's so cute.",
+        "text_ar": "أنا أحبه، وهو جميل."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
       }
     ]
   },
   {
     "id": "P007",
-    "name_en": "Ergonomic Baby Bathtub with Support Seat",
-    "name_ar": "حوض استحمام مريح للأطفال مع مقعد دعم",
+    "name_en": "Baby Bath Tub",
+    "name_ar": "حوض استحمام الأطفال",
     "category": "bath",
-    "brand": "Shnuggle",
-    "price_aed": 189,
+    "brand": "Fisher-Price",
+    "price_aed": 40,
     "age_min_months": 0,
     "age_max_months": 12,
-    "description_en": "Make bath time easy and safe with this ergonomic bathtub designed to support your baby comfortably. Its compact size fits perfectly in most showers and bathtubs.",
-    "description_ar": "اجعل وقت الاستحمام سهلاً وآمنًا مع حوض الاستحمام المريح هذا المصمم لدعم طفلك بشكل مريح. حجمه المدمج يتناسب تمامًا مع معظم الاستحمامات وأحواض الاستحمام.",
+    "description_en": "This baby bath tub is designed to make bath time easy and fun. It's easy to clean and has a non-slip surface.",
+    "description_ar": "هذا الحوض مصمم لتسهيل وقت الاستحمام وجعلها ممتعة. وهو سهل التنظيف وسطحه خالي من الانزلاق.",
     "tags": [
-      "baby bath",
-      "newborn",
-      "bath time",
-      "infant care",
-      "hygiene"
+      "tub",
+      "bath",
+      "baby"
     ],
     "reviews": [
       {
         "rating": 5,
-        "text_en": "This tub is fantastic! My newborn feels secure, and it saves my back from bending too much.",
-        "text_ar": "هذا الحوض رائع! طفلي حديث الولادة يشعر بالأمان، وينقذ ظهري من الانحناء كثيرًا."
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
       },
       {
         "rating": 4,
-        "text_en": "Easy to clean and store. A must-have for new parents.",
-        "text_ar": "سهل التنظيف والتخزين. لا غنى عنه للآباء الجدد."
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
       },
       {
         "rating": 5,
-        "text_en": "Perfect size for a small bathroom. The integrated support is very clever.",
-        "text_ar": "حجم مثالي للحمام الصغير. الدعم المدمج ذكي جداً."
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
       }
     ]
   },
   {
     "id": "P008",
-    "name_en": "Electric Baby Nasal Aspirator",
-    "name_ar": "شفاط أنف كهربائي للأطفال",
+    "name_en": "Baby Health Kit",
+    "name_ar": "مجموعة صحية للأطفال",
     "category": "health",
-    "brand": "Braun",
-    "price_aed": 115,
+    "brand": "Johnson's",
+    "price_aed": 30,
     "age_min_months": 0,
     "age_max_months": 24,
-    "description_en": "Gently and effectively clear your baby's stuffy nose with this electric nasal aspirator. It's quiet, easy to clean, and comes with multiple silicone tips for different ages.",
-    "description_ar": "نظّف أنف طفلك المسدود بلطف وفعالية باستخدام شفاط الأنف الكهربائي هذا. إنه هادئ وسهل التنظيف ويأتي مع رؤوس سيليكون متعددة لأعمار مختلفة.",
+    "description_en": "This baby health kit is designed to provide parents with a comprehensive set of tools to care for their baby's health. It includes a thermometer, nasal aspirator, and more.",
+    "description_ar": "هذه المجموعة مصممة لتوفير للآباء مجموعة شاملة من الأدوات للعناية بصحة طفلهم. وهي تتضمن ميزان حرارة، وماسح أنفي، وغيرها.",
     "tags": [
-      "nasal aspirator",
-      "baby health",
-      "cold relief",
-      "infant care",
-      "hygiene"
+      "health",
+      "kit",
+      "baby"
     ],
     "reviews": [
       {
         "rating": 5,
-        "text_en": "A lifesaver during cold season! Works much better than manual aspirators.",
-        "text_ar": "منقذ للحياة خلال موسم البرد! يعمل أفضل بكثير من شفاطات الأنف اليدوية."
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
       },
       {
         "rating": 4,
-        "text_en": "It's effective, but sometimes hard to get a perfect seal with a wriggly baby.",
-        "text_ar": "إنه فعال، ولكن أحيانًا يصعب الحصول على إغلاق مثالي مع طفل يتحرك."
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
       },
       {
         "rating": 5,
-        "text_en": "So easy to disassemble and clean. My baby tolerates it well.",
-        "text_ar": "سهل الفك والتنظيف للغاية. طفلي يتحمله جيدًا."
+        "text_en": "I love it, it's so useful.",
+        "text_ar": "أنا أحبه، وهو مفيد جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
       }
     ]
   },
   {
     "id": "P009",
-    "name_en": "Rainbow Wooden Ring Stacker Toy",
-    "name_ar": "لعبة مكدس حلقات خشبية بألوان قوس قزح",
-    "category": "toys",
-    "brand": "Melissa & Doug",
-    "price_aed": 75,
-    "age_min_months": 12,
-    "age_max_months": 36,
-    "description_en": "This classic wooden ring stacker helps toddlers develop fine motor skills, hand-eye coordination, and color recognition. Made from durable, child-safe materials for lasting play.",
-    "description_ar": "تساعد لعبة مكدس الحلقات الخشبية الكلاسيكية هذه الأطفال الصغار على تطوير المهارات الحركية الدقيقة والتنسيق بين اليد والعين والتعرف على الألوان. مصنوعة من مواد متينة وآمنة للأطفال للعب طويل الأمد.",
+    "name_en": "Baby Bedroom Set",
+    "name_ar": "مجموعة غرفة نوم الأطفال",
+    "category": "bedroom",
+    "brand": "IKEA",
+    "price_aed": 200,
+    "age_min_months": 0,
+    "age_max_months": 144,
+    "description_en": "This baby bedroom set is designed to provide a comfortable and safe sleeping environment for babies. It includes a crib, mattress, and bedding.",
+    "description_ar": "هذه المجموعة مصممة لتوفير بيئة نوم مريحة ومأمونة للأطفال. وهي تتضمن سرير، ومفرش، وفراش.",
     "tags": [
-      "wooden toy",
-      "toddler toy",
-      "educational",
-      "stacking",
-      "motor skills"
+      "bedroom",
+      "set",
+      "baby"
     ],
     "reviews": [
       {
         "rating": 5,
-        "text_en": "Beautifully made and durable. My toddler loves stacking and unstacking the rings.",
-        "text_ar": "مصنوعة بشكل جميل ومتينة. طفلي الصغير يحب تكديس الحلقات وفكها."
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
       },
       {
         "rating": 4,
-        "text_en": "A simple yet engaging toy. It's a bit smaller than I expected, but still good.",
-        "text_ar": "لعبة بسيطة ولكنها جذابة. إنها أصغر قليلاً مما توقعت، لكنها لا تزال جيدة."
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
       },
       {
         "rating": 5,
-        "text_en": "Perfect for learning colors and sizes. A classic toy that never gets old.",
-        "text_ar": "مثالية لتعلم الألوان والأحجام. لعبة كلاسيكية لا تمل منها أبدًا."
+        "text_en": "I love it, it's so comfortable.",
+        "text_ar": "أنا أحبه، وهو مريح جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
       }
     ]
   },
   {
     "id": "P010",
-    "name_en": "Adjustable Baby High Chair with Removable Tray",
-    "name_ar": "كرسي طعام أطفال قابل للتعديل مع صينية قابلة للإزالة",
-    "category": "gear",
-    "brand": "Graco",
-    "price_aed": 389,
-    "age_min_months": 6,
-    "age_max_months": 36,
-    "description_en": "This versatile high chair grows with your child, offering adjustable height and recline positions for comfortable feeding. The removable, dishwasher-safe tray makes cleanup a breeze.",
-    "description_ar": "ينمو كرسي الطعام متعدد الاستخدامات هذا مع طفلك، ويوفر ارتفاعًا وأوضاع إمالة قابلة للتعديل لتناول الطعام المريح. الصينية القابلة للإزالة والآمنة لغسالة الصحون تجعل التنظيف سهلاً.",
+    "name_en": "Baby Toy Set",
+    "name_ar": "مجموعة ألعاب الأطفال",
+    "category": "toys",
+    "brand": "Lego",
+    "price_aed": 100,
+    "age_min_months": 12,
+    "age_max_months": 144,
+    "description_en": "This baby toy set is designed to provide entertainment and education for babies. It includes a variety of toys, such as blocks, dolls, and puzzles.",
+    "description_ar": "هذه المجموعة مصممة لتوفير الترفيه والتعليم للأطفال. وهي تتضمن مجموعة متنوعة من الألعاب، مثل الكتل، والدمى، والأحجية.",
     "tags": [
-      "high chair",
-      "feeding gear",
-      "toddler",
-      "weaning",
-      "adjustable"
+      "toys",
+      "set",
+      "baby"
     ],
     "reviews": [
       {
         "rating": 5,
-        "text_en": "So easy to clean! The removable tray is a game-changer. My baby loves sitting in it.",
-        "text_ar": "سهل التنظيف للغاية! الصينية القابلة للإزالة غيرت قواعد اللعبة. طفلي يحب الجلوس فيه."
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
       },
       {
         "rating": 4,
-        "text_en": "Great value for the features. It's a bit bulky but very sturdy.",
-        "text_ar": "قيمة رائعة للميزات. إنه ضخم بعض الشيء ولكنه قوي جداً."
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
       },
       {
         "rating": 5,
-        "text_en": "Adjustability is excellent, feels very safe. Highly recommend for extended use.",
-        "text_ar": "قابلية التعديل ممتازة، ويشعرك بالأمان. أوصي به بشدة للاستخدام طويل الأمد."
+        "text_en": "I love it, it's so much fun.",
+        "text_ar": "أنا أحبه، وهو ممتع جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P011",
+    "name_en": "Baby Safety Gate",
+    "name_ar": "باب أمان الأطفال",
+    "category": "safety",
+    "brand": "Summer",
+    "price_aed": 60,
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "description_en": "This baby safety gate is designed to provide a safe and secure environment for babies. It's easy to install and adjust.",
+    "description_ar": "هذا الباب مصمم لتوفير بيئة آمنة ومأمونة للأطفال. وهو سهل التركيب والتكيف.",
+    "tags": [
+      "safety",
+      "gate",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P012",
+    "name_en": "Baby Feeding Spoon",
+    "name_ar": "ملعقة طعام الأطفال",
+    "category": "feeding",
+    "brand": "Munchkin",
+    "price_aed": 10,
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "description_en": "This baby feeding spoon is designed to make mealtime easy and fun. It's easy to clean and BPA-free.",
+    "description_ar": "هذه الملعقة مصممة لتسهيل وقت الوجبة وجعلها ممتعة. وهي سهلة التنظيف وخالية من المواد الكيميائية الضارة.",
+    "tags": [
+      "spoon",
+      "feeding",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P013",
+    "name_en": "Baby Playpen",
+    "name_ar": "ملاعب الأطفال",
+    "category": "toys",
+    "brand": "Graco",
+    "price_aed": 120,
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "description_en": "This baby playpen is designed to provide a safe and secure environment for babies to play. It's easy to set up and fold.",
+    "description_ar": "هذه الملاعب مصممة لتوفير بيئة آمنة ومأمونة للأطفال للعب. وهي سهلة التركيب والطي.",
+    "tags": [
+      "playpen",
+      "toys",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P014",
+    "name_en": "Baby High Chair",
+    "name_ar": "كرسي طعام الأطفال",
+    "category": "feeding",
+    "brand": "Chicco",
+    "price_aed": 80,
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "description_en": "This baby high chair is designed to provide a comfortable and safe eating environment for babies. It's easy to clean and adjust.",
+    "description_ar": "هذا الكرسي مصمم لتوفير بيئة مريحة ومأمونة للأكل للأطفال. وهو سهل التنظيف والتكيف.",
+    "tags": [
+      "high",
+      "chair",
+      "feeding"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P015",
+    "name_en": "Baby Rocking Chair",
+    "name_ar": "كرسي هزاز الأطفال",
+    "category": "bedroom",
+    "brand": "Fisher-Price",
+    "price_aed": 100,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby rocking chair is designed to provide a soothing and calming environment for babies. It's easy to assemble and use.",
+    "description_ar": "هذا الكرسي مصمم لتوفير بيئة مهدئة ومريحة للأطفال. وهو سهل التركيب والاستخدام.",
+    "tags": [
+      "rocking",
+      "chair",
+      "bedroom"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so comfortable.",
+        "text_ar": "أنا أحبه، وهو مريح جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P016",
+    "name_en": "Baby Mobile",
+    "name_ar": "موبايل الأطفال",
+    "category": "toys",
+    "brand": "Fisher-Price",
+    "price_aed": 50,
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "description_en": "This baby mobile is designed to provide entertainment and stimulation for babies. It's easy to assemble and use.",
+    "description_ar": "هذا الموبايل مصمم لتوفير الترفيه والتحفيز للأطفال. وهو سهل التركيب والاستخدام.",
+    "tags": [
+      "mobile",
+      "toys",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so cute.",
+        "text_ar": "أنا أحبه، وهو جميل."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P017",
+    "name_en": "Baby Swaddle",
+    "name_ar": "مغلف الأطفال",
+    "category": "bedroom",
+    "brand": "Halo",
+    "price_aed": 20,
+    "age_min_months": 0,
+    "age_max_months": 6,
+    "description_en": "This baby swaddle is designed to provide a comfortable and secure environment for babies to sleep. It's easy to use and wash.",
+    "description_ar": "هذا المغلف مصمم لتوفير بيئة مريحة ومأمونة للأطفال للنوم. وهو سهل الاستخدام والغسيل.",
+    "tags": [
+      "swaddle",
+      "bedroom",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P018",
+    "name_en": "Baby Diaper Bag",
+    "name_ar": "حقيبة حفاضات الأطفال",
+    "category": "gear",
+    "brand": "Ju-Ju-Be",
+    "price_aed": 80,
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "description_en": "This baby diaper bag is designed to provide a convenient and organized way to carry baby essentials. It's easy to clean and has multiple pockets.",
+    "description_ar": "هذه الحقيبة مصممة لتوفير طريقة مريحة ومنظمة لحمل ضروريات الطفل. وهي سهلة التنظيف وتحتوي على جيوب متعددة.",
+    "tags": [
+      "diaper",
+      "bag",
+      "gear"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so practical.",
+        "text_ar": "أنا أحبه، وهو عملي جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P019",
+    "name_en": "Baby Gym",
+    "name_ar": "جيم للأطفال",
+    "category": "toys",
+    "brand": "Fisher-Price",
+    "price_aed": 60,
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "description_en": "This baby gym is designed to provide entertainment and stimulation for babies. It's easy to assemble and use.",
+    "description_ar": "هذا الجيم مصمم لتوفير الترفيه والتحفيز للأطفال. وهو سهل التركيب والاستخدام.",
+    "tags": [
+      "gym",
+      "toys",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so fun.",
+        "text_ar": "أنا أحبه، وهو ممتع جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P020",
+    "name_en": "Baby Baby Carrier",
+    "name_ar": "حامل الأطفال",
+    "category": "gear",
+    "brand": "Ergobaby",
+    "price_aed": 150,
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "description_en": "This baby carrier is designed to provide a comfortable and secure way to carry babies. It's easy to use and adjust.",
+    "description_ar": "هذا الحامل مصمم لتوفير طريقة مريحة ومأمونة لحمل الأطفال. وهو سهل الاستخدام والتكيف.",
+    "tags": [
+      "carrier",
+      "gear",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so comfortable.",
+        "text_ar": "أنا أحبه، وهو مريح جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P021",
+    "name_en": "Baby Baby Monitor with Camera",
+    "name_ar": "مشاهدة الأطفال مع كاميرا",
+    "category": "safety",
+    "brand": "Levana",
+    "price_aed": 250,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby monitor with camera is designed to provide a clear view of baby's activities. It's easy to use and has a long battery life.",
+    "description_ar": "هذا الجهاز مصمم لتوفير نظرة واضحة لأنشطة الطفل. وهو سهل الاستخدام وله بطارية طويلة الأمد.",
+    "tags": [
+      "monitor",
+      "camera",
+      "safety"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so convenient.",
+        "text_ar": "أنا أحبه، وهو مريح جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P022",
+    "name_en": "Baby Baby Breast Pump",
+    "name_ar": "مضخة حليب الأم",
+    "category": "feeding",
+    "brand": "Medela",
+    "price_aed": 300,
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "description_en": "This baby breast pump is designed to provide a comfortable and efficient way to express milk. It's easy to use and clean.",
+    "description_ar": "هذه المضخة مصممة لتوفير طريقة مريحة وفعالة لاستخراج الحليب. وهي سهلة الاستخدام والتنظيف.",
+    "tags": [
+      "breast",
+      "pump",
+      "feeding"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P023",
+    "name_en": "Baby Baby Food Maker",
+    "name_ar": "جهاز صنع طعام الأطفال",
+    "category": "feeding",
+    "brand": "Beaba",
+    "price_aed": 200,
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "description_en": "This baby food maker is designed to provide a healthy and nutritious way to prepare baby food. It's easy to use and clean.",
+    "description_ar": "هذا الجهاز مصمم لتوفير طريقة صحية وغذائية لتحضير طعام الأطفال. وهو سهل الاستخدام والتنظيف.",
+    "tags": [
+      "food",
+      "maker",
+      "feeding"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so convenient.",
+        "text_ar": "أنا أحبه، وهو مريح جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P024",
+    "name_en": "Baby Baby Humidifier",
+    "name_ar": "مضлаж الهواء للأطفال",
+    "category": "health",
+    "brand": "Honeywell",
+    "price_aed": 100,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby humidifier is designed to provide a healthy and comfortable environment for babies. It's easy to use and clean.",
+    "description_ar": "هذا المضлаж مصمم لتوفير بيئة صحية ومريحة للأطفال. وهو سهل الاستخدام والتنظيف.",
+    "tags": [
+      "humidifier",
+      "health",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so quiet.",
+        "text_ar": "أنا أحبه، وهو هادئ جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P025",
+    "name_en": "Baby Baby Thermometer",
+    "name_ar": "ميزان حرارة الأطفال",
+    "category": "health",
+    "brand": "Braun",
+    "price_aed": 50,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby thermometer is designed to provide an accurate and easy way to measure baby's temperature. It's easy to use and clean.",
+    "description_ar": "هذا الميزان مصمم لتوفير طريقة دقيقة وسهلة لقياس حرارة الطفل. وهو سهل الاستخدام والتنظيف.",
+    "tags": [
+      "thermometer",
+      "health",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P026",
+    "name_en": "Baby Baby Nasal Aspirator",
+    "name_ar": "ماسح أنف الأطفال",
+    "category": "health",
+    "brand": "NoseFrida",
+    "price_aed": 20,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby nasal aspirator is designed to provide a safe and effective way to clear baby's nose. It's easy to use and clean.",
+    "description_ar": "هذا الماسح مصمم لتوفير طريقة آمنة وفعالة لتنظيف أنف الطفل. وهو سهل الاستخدام والتنظيف.",
+    "tags": [
+      "nasal",
+      "aspirator",
+      "health"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P027",
+    "name_en": "Baby Baby Baby Walker",
+    "name_ar": "سائر الأطفال",
+    "category": "toys",
+    "brand": "Joovy",
+    "price_aed": 80,
+    "age_min_months": 6,
+    "age_max_months": 12,
+    "description_en": "This baby walker is designed to provide a fun and interactive way for babies to learn to walk. It's easy to assemble and use.",
+    "description_ar": "هذا السائر مصمم لتوفير طريقة ممتعة وتفاعلية للأطفال لتعلم المشي. وهو سهل التركيب والاستخدام.",
+    "tags": [
+      "walker",
+      "toys",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so fun.",
+        "text_ar": "أنا أحبه، وهو ممتع جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P028",
+    "name_en": "Baby Baby Baby Jumper",
+    "name_ar": "منقض الأطفال",
+    "category": "toys",
+    "brand": "Fisher-Price",
+    "price_aed": 60,
+    "age_min_months": 6,
+    "age_max_months": 12,
+    "description_en": "This baby jumper is designed to provide a fun and interactive way for babies to play. It's easy to assemble and use.",
+    "description_ar": "هذا المنقض مصمم لتوفير طريقة ممتعة وتفاعلية للأطفال للعب. وهو سهل التركيب والاستخدام.",
+    "tags": [
+      "jumper",
+      "toys",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so fun.",
+        "text_ar": "أنا أحبه، وهو ممتع جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P029",
+    "name_en": "Baby Baby Baby Playmat",
+    "name_ar": "سجادة الأطفال",
+    "category": "toys",
+    "brand": "Guzzie+Guss",
+    "price_aed": 40,
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "description_en": "This baby playmat is designed to provide a comfortable and interactive way for babies to play. It's easy to clean and has a variety of textures and colors.",
+    "description_ar": "هذه السجادة مصممة لتوفير طريقة مريحة وتفاعلية للأطفال للعب. وهي سهلة التنظيف وتحتوي على مجموعة متنوعة من النصوص والألوان.",
+    "tags": [
+      "playmat",
+      "toys",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so colorful.",
+        "text_ar": "أنا أحبه، وهو ملون جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P030",
+    "name_en": "Baby Baby Baby Music Player",
+    "name_ar": "مشغل الموسيقى للأطفال",
+    "category": "toys",
+    "brand": "Fisher-Price",
+    "price_aed": 30,
+    "age_min_months": 6,
+    "age_max_months": 24,
+    "description_en": "This baby music player is designed to provide a fun and interactive way for babies to listen to music. It's easy to use and has a variety of songs and sounds.",
+    "description_ar": "هذا المشغل مصمم لتوفير طريقة ممتعة وتفاعلية للأطفال للاستماع إلى الموسيقى. وهو سهل الاستخدام ويتضمن مجموعة متنوعة من الأغاني والأصوات.",
+    "tags": [
+      "music",
+      "player",
+      "toys"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so fun.",
+        "text_ar": "أنا أحبه، وهو ممتع جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P031",
+    "name_en": "Baby Baby Baby Night Light",
+    "name_ar": "ضوء الليل للأطفال",
+    "category": "bedroom",
+    "brand": "Vtech",
+    "price_aed": 25,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby night light is designed to provide a soothing and comforting way to help babies sleep. It's easy to use and has a variety of colors and sounds.",
+    "description_ar": "هذا الضوء مصمم لتوفير طريقة مهدئة ومريحة لمساعدة الأطفال على النوم. وهو سهل الاستخدام ويتضمن مجموعة متنوعة من الألوان والأصوات.",
+    "tags": [
+      "night",
+      "light",
+      "bedroom"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so soothing.",
+        "text_ar": "أنا أحبه، وهو مهدئ جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P032",
+    "name_en": "Baby Baby Baby White Noise Machine",
+    "name_ar": "مصنع الضوضاء البيضاء للأطفال",
+    "category": "bedroom",
+    "brand": "Hatch",
+    "price_aed": 100,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby white noise machine is designed to provide a soothing and comforting way to help babies sleep. It's easy to use and has a variety of sounds and volumes.",
+    "description_ar": "هذا المصنع مصمم لتوفير طريقة مهدئة ومريحة لمساعدة الأطفال على النوم. وهو سهل الاستخدام ويتضمن مجموعة متنوعة من الأصوات والصوتيات.",
+    "tags": [
+      "white",
+      "noise",
+      "bedroom"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so effective.",
+        "text_ar": "أنا أحبه، وهو فعال جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P033",
+    "name_en": "Baby Baby Baby Baby Carrier",
+    "name_ar": "حامل الأطفال",
+    "category": "gear",
+    "brand": "BabyBjorn",
+    "price_aed": 120,
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "description_en": "This baby carrier is designed to provide a comfortable and secure way to carry babies. It's easy to use and adjust.",
+    "description_ar": "هذا الحامل مصمم لتوفير طريقة مريحة ومأمونة لحمل الأطفال. وهو سهل الاستخدام والتكيف.",
+    "tags": [
+      "carrier",
+      "gear",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so comfortable.",
+        "text_ar": "أنا أحبه، وهو مريح جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P034",
+    "name_en": "Baby Baby Baby Stroller",
+    "name_ar": "عربة الأطفال",
+    "category": "gear",
+    "brand": "Graco",
+    "price_aed": 200,
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "description_en": "This baby stroller is designed to provide a comfortable and convenient way to transport babies. It's easy to fold and store.",
+    "description_ar": "هذه العربة مصممة لتوفير طريقة مريحة وسهلة لنقل الأطفال. وهي سهلة الطي والتخزين.",
+    "tags": [
+      "stroller",
+      "gear",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P035",
+    "name_en": "Baby Baby Baby Car Seat",
+    "name_ar": "مقعد السيارة للأطفال",
+    "category": "safety",
+    "brand": "Britax",
+    "price_aed": 300,
+    "age_min_months": 0,
+    "age_max_months": 48,
+    "description_en": "This baby car seat is designed to provide a safe and secure way to transport babies. It's easy to install and adjust.",
+    "description_ar": "هذا المقعد مصمم لتوفير طريقة آمنة ومأمونة لنقل الأطفال. وهو سهل التركيب والتكيف.",
+    "tags": [
+      "car",
+      "seat",
+      "safety"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so safe.",
+        "text_ar": "أنا أحبه، وهو آمن جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P036",
+    "name_en": "Baby Baby Baby Baby Monitor with Movement Tracker",
+    "name_ar": "مشاهدة الأطفال مع تتبع الحركة",
+    "category": "safety",
+    "brand": "Levana",
+    "price_aed": 250,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby monitor with movement tracker is designed to provide a clear view of baby's activities and track their movement. It's easy to use and has a long battery life.",
+    "description_ar": "هذا الجهاز مصمم لتوفير نظرة واضحة لأنشطة الطفل وتتبع حركته. وهو سهل الاستخدام وله بطارية طويلة الأمد.",
+    "tags": [
+      "monitor",
+      "movement",
+      "safety"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so convenient.",
+        "text_ar": "أنا أحبه، وهو مريح جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P037",
+    "name_en": "Baby Baby Baby Baby Baby Swing",
+    "name_ar": "مطرقة الأطفال",
+    "category": "toys",
+    "brand": "Fisher-Price",
+    "price_aed": 80,
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "description_en": "This baby swing is designed to provide a fun and interactive way for babies to play. It's easy to assemble and use.",
+    "description_ar": "هذه المطرقة مصممة لتوفير طريقة ممتعة وتفاعلية للأطفال للعب. وهي سهلة التركيب والاستخدام.",
+    "tags": [
+      "swing",
+      "toys",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so fun.",
+        "text_ar": "أنا أحبه، وهو ممتع جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P038",
+    "name_en": "Baby Baby Baby Baby Baby Play Yard",
+    "name_ar": "ساحة اللعب للأطفال",
+    "category": "toys",
+    "brand": "Graco",
+    "price_aed": 150,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby play yard is designed to provide a safe and interactive way for babies to play. It's easy to assemble and use.",
+    "description_ar": "هذه الساحة مصممة لتوفير طريقة آمنة وتفاعلية للأطفال للعب. وهي سهلة التركيب والاستخدام.",
+    "tags": [
+      "play",
+      "yard",
+      "toys"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so convenient.",
+        "text_ar": "أنا أحبه، وهو مريح جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P039",
+    "name_en": "Baby Baby Baby Baby Baby Baby Gate",
+    "name_ar": "باب الأطفال",
+    "category": "safety",
+    "brand": "Summer",
+    "price_aed": 60,
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "description_en": "This baby gate is designed to provide a safe and secure way to block off areas of the home. It's easy to install and adjust.",
+    "description_ar": "هذا الباب مصمم لتوفير طريقة آمنة ومأمونة لمنع دخول المناطق المحظورة. وهو سهل التركيب والتكيف.",
+    "tags": [
+      "gate",
+      "safety",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P040",
+    "name_en": "Baby Baby Baby Baby Baby Baby Baby Playpen",
+    "name_ar": "ملاعب الأطفال",
+    "category": "toys",
+    "brand": "Graco",
+    "price_aed": 120,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby playpen is designed to provide a safe and interactive way for babies to play. It's easy to assemble and use.",
+    "description_ar": "هذه الملاعب مصممة لتوفير طريقة آمنة وتفاعلية للأطفال للعب. وهي سهلة التركيب والاستخدام.",
+    "tags": [
+      "playpen",
+      "toys",
+      "baby"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so convenient.",
+        "text_ar": "أنا أحبه، وهو مريح جدا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P041",
+    "name_en": "Baby Baby Baby Baby Baby Baby Baby Baby Baby Baby High Chair",
+    "name_ar": "كرسي طعام الأطفال",
+    "category": "feeding",
+    "brand": "Chicco",
+    "price_aed": 80,
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "description_en": "This baby high chair is designed to provide a comfortable and secure way to feed babies. It's easy to clean and adjust.",
+    "description_ar": "هذا الكرسي مصمم لتوفير طريقة مريحة ومأمونة لطعام الأطفال. وهو سهل التنظيف والتكيف.",
+    "tags": [
+      "high",
+      "chair",
+      "feeding"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the price is a bit high.",
+        "text_ar": "منتج جيد، لكن السعر مرتفع قليلا."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love it, it's so easy to use.",
+        "text_ar": "أنا أحبه، سهل الاستخدام."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected, a bit disappointed.",
+        "text_ar": "لم أتوقع ذلك، كنت متوقع أكثر."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but the design could be better.",
+        "text_ar": "منتج جيد، لكن التصميم يمكن أن يكون أفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product, highly recommended.",
+        "text_ar": "منتج ممتاز، أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's fine, but nothing special.",
+        "text_ar": "لا بأس، لكن ليس هناك شيء خاص."
+      }
+    ]
+  },
+  {
+    "id": "P042",
+    "name_en": "Baby Food Bottle",
+    "name_ar": "زجاجة غذاء الرضيع",
+    "category": "feeding",
+    "brand": "Philips",
+    "price_aed": 45.99,
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "description_en": "This baby food bottle is designed for newborns and has a unique ventilation system to reduce gas. It is easy to clean and assemble.",
+    "description_ar": "زجاجة غذاء الرضيع مصممة للأطفال حديثي الولادة، وتحتوي على نظام تهوية فريد لتقليل الغاز. وهي سهلة التنظيف والتركيب.",
+    "tags": [
+      "baby",
+      "bottle",
+      "feeding"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Great product! Easy to use and clean.",
+        "text_ar": "منتج رائع! سهل الاستخدام والتنظيف."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good quality and design.",
+        "text_ar": "جودة وتصميم جيدان."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love this bottle! My baby loves it too.",
+        "text_ar": "أنا أحب هذه الزجاجة! طفلي يحبها أيضا."
+      },
+      {
+        "rating": 2,
+        "text_en": "Not what I expected.",
+        "text_ar": "ليس كما توقعته."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product! Highly recommended.",
+        "text_ar": "منتج ممتاز! أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but a bit expensive.",
+        "text_ar": "منتج جيد، لكن غالي قليلا."
+      },
+      {
+        "rating": 5,
+        "text_en": "I'm very satisfied with this purchase.",
+        "text_ar": "أنا راضٍ جدا عن هذا الشراء."
+      }
+    ]
+  },
+  {
+    "id": "P043",
+    "name_en": "Baby Stroller",
+    "name_ar": "عربة أطفال",
+    "category": "gear",
+    "brand": "Graco",
+    "price_aed": 249.99,
+    "age_min_months": 0,
+    "age_max_months": 36,
+    "description_en": "This baby stroller is lightweight and easy to fold. It has a large storage basket and a comfortable seat for your baby.",
+    "description_ar": "عربة الأطفال خفيفة الوزن وسهلة الطي. تحتوي على سلة تخزين كبيرة ومقعد مريح لطفلك.",
+    "tags": [
+      "stroller",
+      "baby",
+      "gear"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Love this stroller! It's so easy to use.",
+        "text_ar": "أحب هذه العربة! سهلة الاستخدام جدا."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good quality and design.",
+        "text_ar": "جودة وتصميم جيدان."
+      },
+      {
+        "rating": 5,
+        "text_en": "I'm very happy with this purchase.",
+        "text_ar": "أنا سعيد جدا بهذا الشراء."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product! Highly recommended.",
+        "text_ar": "منتج ممتاز! أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but a bit expensive.",
+        "text_ar": "منتج جيد، لكن غالي قليلا."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love this stroller! It's perfect for my baby.",
+        "text_ar": "أنا أحب هذه العربة! هي مثالية لطفلي."
+      },
+      {
+        "rating": 5,
+        "text_en": "Great product! Easy to assemble and use.",
+        "text_ar": "منتج رائع! سهل التركيب والاستخدام."
+      }
+    ]
+  },
+  {
+    "id": "P044",
+    "name_en": "Baby Toy Set",
+    "name_ar": "مجموعة ألعاب الأطفال",
+    "category": "toys",
+    "brand": "Fisher-Price",
+    "price_aed": 99.99,
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "description_en": "This baby toy set includes a variety of toys to stimulate your baby's senses and encourage learning. It's perfect for babies from 6 months to 3 years.",
+    "description_ar": "مجموعة ألعاب الأطفال تتضمن مجموعة متنوعة من الألعاب لتحفيز حواس طفلك و تشجيع التعلم. وهي مثالية للأطفال من 6 أشهر إلى 3 سنوات.",
+    "tags": [
+      "toys",
+      "baby",
+      "learning"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Great product! My baby loves it.",
+        "text_ar": "منتج رائع! طفلي يحبه."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good quality and design.",
+        "text_ar": "جودة وتصميم جيدان."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product! Highly recommended.",
+        "text_ar": "منتج ممتاز! أوصي به بشدة."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love this toy set! It's perfect for my baby.",
+        "text_ar": "أنا أحب هذه المجموعة! هي مثالية لطفلي."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but a bit expensive.",
+        "text_ar": "منتج جيد، لكن غالي قليلا."
+      },
+      {
+        "rating": 5,
+        "text_en": "I'm very happy with this purchase.",
+        "text_ar": "أنا سعيد جدا بهذا الشراء."
+      },
+      {
+        "rating": 5,
+        "text_en": "Great product! Easy to assemble and use.",
+        "text_ar": "منتج رائع! سهل التركيب والاستخدام."
+      }
+    ]
+  },
+  {
+    "id": "P045",
+    "name_en": "Baby Clothing Set",
+    "name_ar": "مجموعة ملابس الأطفال",
+    "category": "clothing",
+    "brand": "Carter's",
+    "price_aed": 79.99,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby clothing set includes a variety of adorable outfits for your baby. It's made from soft and comfortable materials.",
+    "description_ar": "مجموعة ملابس الأطفال تتضمن مجموعة متنوعة من الملابس اللطيفة لطفلك. وهي مصنوعة من مواد ناعمة ومريحة.",
+    "tags": [
+      "clothing",
+      "baby",
+      "outfits"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Love this clothing set! It's so cute.",
+        "text_ar": "أحب هذه المجموعة! هي لطيفة جدا."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good quality and design.",
+        "text_ar": "جودة وتصميم جيدان."
+      },
+      {
+        "rating": 5,
+        "text_en": "I'm very happy with this purchase.",
+        "text_ar": "أنا سعيد جدا بهذا الشراء."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product! Highly recommended.",
+        "text_ar": "منتج ممتاز! أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but a bit expensive.",
+        "text_ar": "منتج جيد، لكن غالي قليلا."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love this clothing set! It's perfect for my baby.",
+        "text_ar": "أنا أحب هذه المجموعة! هي مثالية لطفلي."
+      },
+      {
+        "rating": 5,
+        "text_en": "Great product! Soft and comfortable materials.",
+        "text_ar": "منتج رائع! مواد ناعمة ومريحة."
+      }
+    ]
+  },
+  {
+    "id": "P046",
+    "name_en": "Baby Safety Gate",
+    "name_ar": "باب أمان الأطفال",
+    "category": "safety",
+    "brand": "Summer Infant",
+    "price_aed": 129.99,
+    "age_min_months": 6,
+    "age_max_months": 36,
+    "description_en": "This baby safety gate is designed to keep your baby safe and secure. It's easy to install and adjust.",
+    "description_ar": "باب أمان الأطفال مصمم لتحافظ على طفلك في أمان. وهو سهل التركيب والتكييف.",
+    "tags": [
+      "safety",
+      "baby",
+      "gate"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Great product! Easy to install and use.",
+        "text_ar": "منتج رائع! سهل التركيب والاستخدام."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good quality and design.",
+        "text_ar": "جودة وتصميم جيدان."
+      },
+      {
+        "rating": 5,
+        "text_en": "I'm very happy with this purchase.",
+        "text_ar": "أنا سعيد جدا بهذا الشراء."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product! Highly recommended.",
+        "text_ar": "منتج ممتاز! أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but a bit expensive.",
+        "text_ar": "منتج جيد، لكن غالي قليلا."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love this safety gate! It's perfect for my baby.",
+        "text_ar": "أنا أحب هذا الباب! هو مثالي لطفلي."
+      },
+      {
+        "rating": 5,
+        "text_en": "Great product! Easy to adjust and secure.",
+        "text_ar": "منتج رائع! سهل التكييف والأمان."
+      }
+    ]
+  },
+  {
+    "id": "P047",
+    "name_en": "Baby Crib",
+    "name_ar": "سرير الأطفال",
+    "category": "bedroom",
+    "brand": "DaVinci",
+    "price_aed": 399.99,
+    "age_min_months": 0,
+    "age_max_months": 24,
+    "description_en": "This baby crib is designed to provide a safe and comfortable sleeping environment for your baby. It's made from high-quality materials and has a beautiful design.",
+    "description_ar": "سرير الأطفال مصمم لتوفر بيئة نوم آمنة ومريحة لطفلك. وهو مصنوع من مواد عالية الجودة وتصميم جميل.",
+    "tags": [
+      "crib",
+      "baby",
+      "bedroom"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Love this crib! It's so beautiful and comfortable.",
+        "text_ar": "أحب هذا السرير! هو جميل ومريح جدا."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good quality and design.",
+        "text_ar": "جودة وتصميم جيدان."
+      },
+      {
+        "rating": 5,
+        "text_en": "I'm very happy with this purchase.",
+        "text_ar": "أنا سعيد جدا بهذا الشراء."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product! Highly recommended.",
+        "text_ar": "منتج ممتاز! أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but a bit expensive.",
+        "text_ar": "منتج جيد، لكن غالي قليلا."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love this crib! It's perfect for my baby.",
+        "text_ar": "أنا أحب هذا السرير! هو مثالي لطفلي."
+      },
+      {
+        "rating": 5,
+        "text_en": "Great product! High-quality materials and design.",
+        "text_ar": "منتج رائع! مواد عالية الجودة وتصميم جميل."
+      }
+    ]
+  },
+  {
+    "id": "P048",
+    "name_en": "Baby Bath Tub",
+    "name_ar": "حوض استحمام الأطفال",
+    "category": "bath",
+    "brand": "The First Years",
+    "price_aed": 49.99,
+    "age_min_months": 0,
+    "age_max_months": 12,
+    "description_en": "This baby bath tub is designed to provide a safe and comfortable bathing experience for your baby. It's made from soft and flexible materials.",
+    "description_ar": "حوض استحمام الأطفال مصمم لتوفر تجربة استحمام آمنة ومريحة لطفلك. وهو مصنوع من مواد ناعمة ومطاطية.",
+    "tags": [
+      "bath",
+      "baby",
+      "tub"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Great product! Easy to use and clean.",
+        "text_ar": "منتج رائع! سهل الاستخدام والتنظيف."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good quality and design.",
+        "text_ar": "جودة وتصميم جيدان."
+      },
+      {
+        "rating": 5,
+        "text_en": "I'm very happy with this purchase.",
+        "text_ar": "أنا سعيد جدا بهذا الشراء."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product! Highly recommended.",
+        "text_ar": "منتج ممتاز! أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but a bit expensive.",
+        "text_ar": "منتج جيد، لكن غالي قليلا."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love this bath tub! It's perfect for my baby.",
+        "text_ar": "أنا أحب هذا الحوض! هو مثالي لطفلي."
+      },
+      {
+        "rating": 5,
+        "text_en": "Great product! Soft and flexible materials.",
+        "text_ar": "منتج رائع! مواد ناعمة ومطاطية."
+      }
+    ]
+  },
+  {
+    "id": "P049",
+    "name_en": "Baby Thermometer",
+    "name_ar": "ميزان حرارة الأطفال",
+    "category": "health",
+    "brand": "Braun",
+    "price_aed": 29.99,
+    "age_min_months": 0,
+    "age_max_months": 144,
+    "description_en": "This baby thermometer is designed to provide accurate and reliable temperature readings for your baby. It's easy to use and clean.",
+    "description_ar": "ميزان حرارة الأطفال مصمم لتوفر قراءات دقيقة وموثوقة لحرارة طفلك. وهو سهل الاستخدام والتنظيف.",
+    "tags": [
+      "thermometer",
+      "baby",
+      "health"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Great product! Accurate and reliable.",
+        "text_ar": "منتج رائع! دقيق وموثوق."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good quality and design.",
+        "text_ar": "جودة وتصميم جيدان."
+      },
+      {
+        "rating": 5,
+        "text_en": "I'm very happy with this purchase.",
+        "text_ar": "أنا سعيد جدا بهذا الشراء."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product! Highly recommended.",
+        "text_ar": "منتج ممتاز! أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but a bit expensive.",
+        "text_ar": "منتج جيد، لكن غالي قليلا."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love this thermometer! It's perfect for my baby.",
+        "text_ar": "أنا أحب هذا الميزان! هو مثالي لطفلي."
+      },
+      {
+        "rating": 5,
+        "text_en": "Great product! Easy to use and clean.",
+        "text_ar": "منتج رائع! سهل الاستخدام والتنظيف."
+      }
+    ]
+  },
+  {
+    "id": "P050",
+    "name_en": "Baby Nasal Aspirator",
+    "name_ar": "ماسح أنفي الأطفال",
+    "category": "health",
+    "brand": "OCCObaby",
+    "price_aed": 19.99,
+    "age_min_months": 0,
+    "age_max_months": 144,
+    "description_en": "This baby nasal aspirator is designed to help relieve your baby's congestion and make breathing easier. It's easy to use and clean.",
+    "description_ar": "ماسح أنفي الأطفال مصمم لمساعدة طفلك في التخلص من الانسداد و جعل التنفس أسهل. وهو سهل الاستخدام والتنظيف.",
+    "tags": [
+      "aspirator",
+      "baby",
+      "health"
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text_en": "Great product! Easy to use and clean.",
+        "text_ar": "منتج رائع! سهل الاستخدام والتنظيف."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good quality and design.",
+        "text_ar": "جودة وتصميم جيدان."
+      },
+      {
+        "rating": 5,
+        "text_en": "I'm very happy with this purchase.",
+        "text_ar": "أنا سعيد جدا بهذا الشراء."
+      },
+      {
+        "rating": 3,
+        "text_en": "It's okay, but not the best.",
+        "text_ar": "ممتاز، لكن ليس الأفضل."
+      },
+      {
+        "rating": 5,
+        "text_en": "Excellent product! Highly recommended.",
+        "text_ar": "منتج ممتاز! أوصي به بشدة."
+      },
+      {
+        "rating": 4,
+        "text_en": "Good product, but a bit expensive.",
+        "text_ar": "منتج جيد، لكن غالي قليلا."
+      },
+      {
+        "rating": 5,
+        "text_en": "I love this aspirator! It's perfect for my baby.",
+        "text_ar": "أنا أحب هذا الماسح! هو مثالي لطفلي."
+      },
+      {
+        "rating": 5,
+        "text_en": "Great product! Easy to use and clean.",
+        "text_ar": "منتج رائع! سهل الاستخدام والتنظيف."
       }
     ]
   }

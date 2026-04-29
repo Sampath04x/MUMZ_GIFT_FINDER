@@ -19,9 +19,9 @@ Chose Gift Finder + Moms Verdict because:
 
 **ChromaDB over Pinecone/Weaviate**: No signup needed, runs locally, persists to disk. For a demo, this is strictly better — reviewer can clone and run without managing credentials.
 
-**Two-model approach (llama-3.1-8b-instant for extraction, llama-3.3-70b-versatile for ranking)**: Intent extraction just needs valid JSON fields — the smaller, faster model handles it well at near-zero cost. The larger model is reserved for user-facing reasoning where output quality matters.
+**Two-model approach (llama-3.1-8b-instant + llama-3.3-70b-versatile)**: Intent extraction just needs valid JSON fields — the smaller, faster model handles it well at near-zero cost. The larger model is reserved for user-facing reasoning where output quality matters.
 
-**Synthetic data via Groq llama-3.3-70b-versatile**: Generated 50 products with Arabic names and 8 reviews each. The brief says "bring or generate your own data" — what matters is whether the pipeline handles the data well, not whether the products are real.
+**Synthetic data via Gemini 2.5 Flash to generate 50 products**: Generated 50 products with Arabic names and 8 reviews each. The brief says "bring or generate your own data" — what matters is whether the pipeline handles the data well, not whether the products are real.
 
 ## What I'd build next
 
